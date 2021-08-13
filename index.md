@@ -6,10 +6,11 @@ This product has following features.
 - Feature 1
 - Feature 2
 - Feature 3
+ 
 This Guide includes the following:
-[Getting Started Guide](#index.md)
-Configuration Guide
-Support Guide
-Troubleshooting Guide
+[Getting Started Guide](Gettingstarted.md)
+[Configuration Guide](demoPT.md)
+[Support Guide](Gettingstarted.md)
+[Troubleshooting](Gettingstarted.md)
 
 
