@@ -8,9 +8,13 @@ This product has following features.
 - Feature 3
  
 This Guide includes the following:
+
 [Getting Started Guide](GettingStarted.md)
+
 [Configuration Guide](demoPT.md)
+
 [Support Guide](GettingStarted.md)
+
 [Troubleshooting](GettingStarted.md)
 
 
