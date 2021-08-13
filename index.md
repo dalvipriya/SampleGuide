@@ -13,7 +13,7 @@ This Guide includes the following:
 
 [Configuration Guide](demoPT.md)
 
-[Support Guide](Support.md)
+[Support Guide](SupportGuide.md)
 
 [Troubleshooting](Troubleshooting.md)
 
