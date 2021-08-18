@@ -1,11 +1,12 @@
 # Table of Contents
- - [ABC Overview](#overview)
+ - [ABC Overview](#abc-overview)
  - [Key Features](#key-features)
-   -  [Feature 1: Reduces human efforts](feature-1-reduces-human-efforts)
-   -  [Feature 2: Improves productivity](feature-2-improves-productivity)
-   -  [Feature 3: Easy to use](feature-3-easy-to-use)
- - [Technical Specifications](technical-specifications)
- - [Reference Guides](reference-guides)
+   -  [Feature 1: Reduces human efforts](#feature-1-reduces-human-efforts)
+   -  [Feature 2: Improves productivity](#feature-2-improves-productivity)
+   -  [Feature 3: Easy to use](#feature-3-easy-to-use)
+ - [Technical Specifications](#technical-specifications)
+ - [Reference Guides](#reference-guides)
+ - [External Links](#external-links)
 # ABC Overview
 Working on a new theme for WordPress? Need to create an example site for a client? Whatever the reason, using dummy content can help display what a site might actually look like once it goes live. Instead of creating your own posts and pages, it’s easier to simply use some form of **WordPress** dummy content generator.
 # Key Features
@@ -35,12 +36,15 @@ To make your document look professionally produced, Word provides header, footer
 
 [Getting Started Guide](GettingStarted.md)
 
-[Configuration Guide](demoPT.md)
-
 [Support Guide](SupportGuide.md)
 
 [Troubleshooting](Troubleshooting.md)
 
 [See Detailed Guide Here](DDSYOverview.pdf)
+
+# External Links
+[GitHub Flavoured Markdown (GFM)](https://github.github.com/gfm/)
+
+[Basic Formatting and Syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
