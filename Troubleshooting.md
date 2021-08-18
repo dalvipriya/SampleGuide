@@ -1,2 +1,1 @@
-# Troubleshooting Guide
-This is a troubleshooting guide.
+![Image](troubleshooting-guide.png)
