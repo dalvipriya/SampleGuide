@@ -41,6 +41,6 @@ To make your document look professionally produced, Word provides header, footer
 
 [Troubleshooting](Troubleshooting.md)
 
-[See Detailed Guide Here](DSSY-list-of-hosp-and-procedures.pdf)
+[See Detailed Guide Here]("DSSY-list-of-hosp-and-procedures.pdf")
 
 
