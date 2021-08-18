@@ -1,2 +1,1 @@
-# Suppot Guide
-This is a support guide.
+![Image](SupportGuide.png)
