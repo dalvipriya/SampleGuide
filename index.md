@@ -47,4 +47,4 @@ To make your document look professionally produced, Word provides header, footer
 
 [Basic Formatting and Syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-
+😄 
